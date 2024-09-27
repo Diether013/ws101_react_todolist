@@ -9,7 +9,6 @@ import './App.css';
 // import IfCondition from './components/IfConditions';
 //import Biodata from './components/Biodata/biodata';
 import TodoList from './components/todolist/todolist';
-import "./components/todolist/todolist.css";
 //import todolist from './components/todolist/todolist';
 function App() {
     return (
