@@ -8,8 +8,9 @@ import './App.css';
 // import HandlingClass from './components/HandlingClass';
 // import IfCondition from './components/IfConditions';
 //import Biodata from './components/Biodata/biodata';
-import TodoList from './components/todolist/todolist';
+//import TodoList from './components/todolist/todolist';
 //import todolist from './components/todolist/todolist';
+import Navbar from './navbar/navbar';
 function App() {
     return (
         <div className="App">
@@ -20,8 +21,9 @@ function App() {
         <Footer />
         <HandlingFunction />
         <HandlingClass />
-        <IfCondition /> */}
-        <TodoList />
+        <IfCondition /> 
+        <TodoList />*/}
+        <Navbar />
     </div>
     
     );
